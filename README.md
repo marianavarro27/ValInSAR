@@ -1,5 +1,5 @@
 # ValInSAR
-alInSAR is a Matlab supported open source code developed by the University of Alicante aimed to validate Differential Synthetic Aperture Radar Interferometry (DInSAR) measurements with in-situ techniques to obtain reliable subsidence measurements.
+ValInSAR is a Matlab supported open source code developed by the University of Alicante aimed to validate Differential Synthetic Aperture Radar Interferometry (DInSAR) measurements with in-situ techniques to obtain reliable subsidence measurements.
 
 Terms of use: This code is licensed under a Creative Commons Attribution License. It is attributed to
 Valdes-Abellan, J., Navarro-Hernández, M.I., and Tomás, R.
